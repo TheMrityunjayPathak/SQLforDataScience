@@ -9,6 +9,7 @@
 - [Introduction](#introduction)
 - [Notebook List](#notebook-list)
 - [Getting Started](#getting-started)
+- [How To](#how-to)
 - [Contributions](#contributions)
 - [License](#license)
 - [Acknowledgments](#acknowledgements)
@@ -53,6 +54,14 @@ jupyter notebook
 ````
 
 3. Follow along with the Notebook and run the code in SQL Enviroment to explore the concepts and examples.
+
+## How To
+
+1. Download the [Parch and Posey](https://github.com/TheMrityunjayPathak/SQLforDataScience/blob/main/Parch%20and%20Posey.sql) SQL File
+
+2. Go to an online SQL Compiler, such as [SQLiteOnline](https://sqliteonline.com/).
+
+3. Import the Parch and Posey.sql file and run the queries to practice SQL concepts.
 
 ## Contributions
 
