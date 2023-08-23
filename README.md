@@ -10,6 +10,7 @@
 - [Notebook List](#notebook-list)
 - [Getting Started](#getting-started)
 - [How To](#how-to)
+- [Entity Relationship Diagram](#entity-relationship-diagram)
 - [Contributions](#contributions)
 - [License](#license)
 - [Acknowledgments](#acknowledgements)
@@ -62,6 +63,18 @@ jupyter notebook
 2. Go to an online SQL Compiler, such as [SQLiteOnline](https://sqliteonline.com/).
 
 3. Import the Parch and Posey.sql file and run the queries to practice SQL concepts.
+
+## Entity Relationship Diagram
+
+In the Parch & Posey Database there are 5 tables :
+
+- web_events
+- accounts
+- orders
+- sales_reps
+- region
+
+![download](https://github.com/TheMrityunjayPathak/SQLforDataScience/assets/123563634/6f62f2e0-423d-4dcc-bfe9-097059cb8cd2)
 
 ## Contributions
 
