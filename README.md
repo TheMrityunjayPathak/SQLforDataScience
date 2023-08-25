@@ -36,7 +36,7 @@ Here is a list of Jupyter notebooks included in this repository :
 7. [SQL Aggregation - 1](https://github.com/TheMrityunjayPathak/SQLforDataScience/blob/f5c1ed7aeebb56e80c8aa50f6a76a2593a572d46/Notebooks/SQL%20for%20Data%20Science%20-%207.ipynb)
 8. [SQL Aggregation - 2](https://github.com/TheMrityunjayPathak/SQLforDataScience/blob/f5c1ed7aeebb56e80c8aa50f6a76a2593a572d46/Notebooks/SQL%20for%20Data%20Science%20-%208.ipynb)
 9. [SQL Aggregation - 3](https://github.com/TheMrityunjayPathak/SQLforDataScience/blob/f5c1ed7aeebb56e80c8aa50f6a76a2593a572d46/Notebooks/SQL%20for%20Data%20Science%20-%209.ipynb)
-10. [SQL Sub-Queries and Window Function](https://github.com/TheMrityunjayPathak/SQLforDataScience/blob/f5c1ed7aeebb56e80c8aa50f6a76a2593a572d46/Notebooks/SQL%20for%20Data%20Science%20-%210.ipynb)
+10. [SQL Sub-Queries and Window Function](https://github.com/TheMrityunjayPathak/SQLforDataScience/blob/f5c1ed7aeebb56e80c8aa50f6a76a2593a572d46/Notebooks/SQL%20for%20Data%20Science%20-%2010.ipynb)
 
 Each notebook provides explanations, examples, and hands-on exercises to help you understand and practice SQL concepts.
 
