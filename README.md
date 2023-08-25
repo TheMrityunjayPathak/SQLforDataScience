@@ -45,7 +45,7 @@ Each notebook provides explanations, examples, and hands-on exercises to help yo
 1. Clone the repository to your local machine using the following command :
    
 ```bash
-git clone https://github.com/your-username/sql-for-data-science.git
+git clone https://github.com/TheMrityunjayPathak/SQLforDataScience.git
 ````
 
 2. Launch Jupyter Notebook and open the desired notebook file :
