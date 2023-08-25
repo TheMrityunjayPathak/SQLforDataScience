@@ -27,16 +27,16 @@
 
 Here is a list of Jupyter notebooks included in this repository :
 
-1. [SQL Basics](https://github.com/TheMrityunjayPathak/SQLforDataScience/blob/dacb6d75c46a8d4bafff5e40a9c92656540994c5/SQL%20for%20Data%20Science%20-%201.ipynb)
-2. [SQL Statements](https://github.com/TheMrityunjayPathak/SQLforDataScience/blob/main/SQL%20for%20Data%20Science%20-%202.ipynb)
-3. [LIMIT, DISTINCT, ORDER BY Clause](https://github.com/TheMrityunjayPathak/SQLforDataScience/blob/main/SQL%20for%20Data%20Science%20-%203.ipynb)
-4. [SQL WHERE Statement](https://github.com/TheMrityunjayPathak/SQLforDataScience/blob/main/SQL%20for%20Data%20Science%20-%204.ipynb)
+1. [SQL Basics](https://github.com/TheMrityunjayPathak/SQLforDataScience/blob/f5c1ed7aeebb56e80c8aa50f6a76a2593a572d46/Notebooks/SQL%20for%20Data%20Science%20-%201.ipynb)
+2. [SQL Statements](https://github.com/TheMrityunjayPathak/SQLforDataScience/blob/f5c1ed7aeebb56e80c8aa50f6a76a2593a572d46/Notebooks/SQL%20for%20Data%20Science%20-%202.ipynb)
+3. [LIMIT, DISTINCT, ORDER BY Clause](https://github.com/TheMrityunjayPathak/SQLforDataScience/blob/f5c1ed7aeebb56e80c8aa50f6a76a2593a572d46/Notebooks/SQL%20for%20Data%20Science%20-%203.ipynb)
+4. [SQL WHERE Statement](https://github.com/TheMrityunjayPathak/SQLforDataScience/blob/f5c1ed7aeebb56e80c8aa50f6a76a2593a572d46/Notebooks/SQL%20for%20Data%20Science%20-%204.ipynb)
 5. [SQL Logical Operators](https://github.com/TheMrityunjayPathak/SQLforDataScience/blob/dacb6d75c46a8d4bafff5e40a9c92656540994c5/SQL%20for%20Data%20Science%20-%205.ipynb)
-6. [SQL Joins](https://github.com/TheMrityunjayPathak/SQLforDataScience/blob/main/SQL%20for%20Data%20Science%20-%206.ipynb)
-7. [SQL Aggregation - 1](https://github.com/TheMrityunjayPathak/SQLforDataScience/blob/main/SQL%20for%20Data%20Science%20-%207.ipynb)
-8. [SQL Aggregation - 2](https://github.com/TheMrityunjayPathak/SQLforDataScience/blob/main/SQL%20for%20Data%20Science%20-%208.ipynb)
-9. [SQL Aggregation - 3](https://github.com/TheMrityunjayPathak/SQLforDataScience/blob/main/SQL%20for%20Data%20Science%20-%209.ipynb)
-10. [SQL Sub-Queries and Window Function](https://github.com/TheMrityunjayPathak/SQLforDataScience/blob/main/SQL%20for%20Data%20Science%20-%2010.ipynb)
+6. [SQL Joins](https://github.com/TheMrityunjayPathak/SQLforDataScience/blob/f5c1ed7aeebb56e80c8aa50f6a76a2593a572d46/Notebooks/SQL%20for%20Data%20Science%20-%206.ipynb)
+7. [SQL Aggregation - 1](https://github.com/TheMrityunjayPathak/SQLforDataScience/blob/f5c1ed7aeebb56e80c8aa50f6a76a2593a572d46/Notebooks/SQL%20for%20Data%20Science%20-%207.ipynb)
+8. [SQL Aggregation - 2](https://github.com/TheMrityunjayPathak/SQLforDataScience/blob/f5c1ed7aeebb56e80c8aa50f6a76a2593a572d46/Notebooks/SQL%20for%20Data%20Science%20-%208.ipynb)
+9. [SQL Aggregation - 3](https://github.com/TheMrityunjayPathak/SQLforDataScience/blob/f5c1ed7aeebb56e80c8aa50f6a76a2593a572d46/Notebooks/SQL%20for%20Data%20Science%20-%209.ipynb)
+10. [SQL Sub-Queries and Window Function](https://github.com/TheMrityunjayPathak/SQLforDataScience/blob/f5c1ed7aeebb56e80c8aa50f6a76a2593a572d46/Notebooks/SQL%20for%20Data%20Science%20-%210.ipynb)
 
 Each notebook provides explanations, examples, and hands-on exercises to help you understand and practice SQL concepts.
 
