@@ -91,3 +91,6 @@ In the Parch & Posey Database there are 5 tables :
 - The notebooks in this repository are created based on various online tutorials, courses, and documentation.
 
 - Special thanks to the SQL open-source community for their continuous efforts in making SQL not only a powerful tool but also an inclusive and dynamic environment for data exploration and analysis.
+
+| [Scroll to Top ⬆️](#sql-for-data-science) |
+|:---:|
